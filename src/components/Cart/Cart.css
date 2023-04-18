@@ -1,0 +1,34 @@
+.cart{
+    text-align: start;
+    font-size: 20px;
+    padding: 0px 10px;
+}
+.clear-cart{
+    display: block;
+    width: 100%;
+    border-radius: 15px;
+    height: 60px;
+    border: none;
+    background-color: #FF3030;
+    color: white;
+    font-weight: 600;
+    font-size: 20px;
+}
+.review-order{
+    display: block;
+    width: 100%;
+    border-radius: 15px;
+    height: 60px;
+    border: none;
+    background-color: #FF9900;
+    color: white;
+    font-weight: 600;
+    font-size: 20px;
+    margin-top: 10px;
+}
+.clear-cart:hover{
+    background-color: #f30909;
+}
+.review-order:hover{
+    background-color: #ffc400;
+}
